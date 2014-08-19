@@ -2,15 +2,23 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Joe Edwards'
-SITENAME = u'Rice Microbiome'
-SITEURL = ''
+AUTHOR = 'Joe Edwards'
+SITENAME = 'Rice Microbiome'
+SITEURL = 'http://ricemicrobiome.github.io/'
 
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'en'
+
+STATIC_PATHS = [
+    'images',
+    'extras'
+]
+
+# What to do with output directory when updating
+DELETE_OUTPUT_DIRECTORY = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -32,6 +40,11 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-THEME = "pelican-themes/subtle"
+THEME = "pelican-themes/RMBCustom"
+
+EXTRA_PATH_METADATA = {
+    'extras/robots.txt': {'path': 'robots.txt'},
+    'extras/favicon.ico': {'path': 'favicon.ico'},
+}
 
 
