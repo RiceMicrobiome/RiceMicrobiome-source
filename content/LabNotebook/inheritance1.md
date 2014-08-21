@@ -5,3 +5,5 @@ Category: Notebook
 Tags: inheritance
 Slug: simple-inheritance-experiment
 Authors: Joe Edwards
+
+Suck it Trebec
