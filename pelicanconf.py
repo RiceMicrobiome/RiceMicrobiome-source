@@ -49,4 +49,8 @@ EXTRA_PATH_METADATA = {
     'extras/favicon.ico': {'path': 'favicon.ico'},
 }
 
+# Publishing Extras
+GOOGLE_ANALYTICS = 'UA-54046198-1'
+DISQUS_SITENAME = "ricemicrobiome"
+
 
