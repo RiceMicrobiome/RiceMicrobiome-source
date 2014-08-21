@@ -10,7 +10,7 @@ Summary: Short version for index and feeds
 ## The Mules
 
 ### [Joe Edwards]({filename}/pages/joe.md)
-<img src="/images/joe.JPG" alt="Mustache Joe" style="width: 200px;"/>
+<img src="/images/joe.jpg" alt="Mustache Joe" style="width: 200px;"/>
 
 
 Joe is an astronaut

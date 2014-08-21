@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Joe Edwards'
 SITENAME = 'Rice Microbiome'
-SITEURL = 'http://ricemicrobiome.github.io/'
+SITEURL = ''#'http://ricemicrobiome.github.io/'
 
 PATH = 'content'
 
@@ -41,6 +41,8 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = "pelican-themes/RMBCustom"
+
+TAG_FEED_ATOM = "feeds/tag_%s.atom.xml"
 
 EXTRA_PATH_METADATA = {
     'extras/robots.txt': {'path': 'robots.txt'},

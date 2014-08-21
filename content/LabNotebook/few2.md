@@ -2,7 +2,7 @@ Title: Field Experiment Week 2
 Date: 2014-05-20 19:30
 Modified: 2014-07-31
 Category: Notebook
-Tags: Field Experiment, Arbuckle
+Tags: field-experiment, arbuckle, acquisition, methane 
 Slug: FE-Week2
 Authors: Joe Edwards
 
