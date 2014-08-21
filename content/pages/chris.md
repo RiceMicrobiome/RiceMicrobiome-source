@@ -7,4 +7,4 @@ Authors: Christian
 Summary: Short version for index and feeds
 status: hidden
 
-Chris hails from a place very far far away
+Chris hails from a place very very very far far away
