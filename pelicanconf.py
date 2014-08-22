@@ -50,7 +50,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Publishing Extras
-GOOGLE_ANALYTICS = 'UA-54046198-1'
-DISQUS_SITENAME = "ricemicrobiome"
+#GOOGLE_ANALYTICS = 'UA-54046198-1'
+#DISQUS_SITENAME = "ricemicrobiome"
 
 

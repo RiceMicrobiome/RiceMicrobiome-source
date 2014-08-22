@@ -20,5 +20,5 @@ DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
-#DISQUS_SITENAME = "ricemicrobiome"
-#GOOGLE_ANALYTICS = "UA-54046198-1"
+DISQUS_SITENAME = "ricemicrobiome"
+GOOGLE_ANALYTICS = "UA-54046198-1"
