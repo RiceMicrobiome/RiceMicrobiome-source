@@ -7,14 +7,14 @@ Slug: FE-Week14
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw14.jpg)
+![]({filename}/images/ArbuckleField/fieldw14.jpg)
 
 Here's Chris in the field.  Compare this to week 3.  The rice plants are all grown up.
 
-![]({filename}/images/chrisw14.jpg)
+![]({filename}/images/ArbuckleField/chrisw14.jpg)
 
 
-![]({filename}/images/plantsw14.jpg)
+![]({filename}/images/ArbuckleField/plantsw14.jpg)
 
 
 

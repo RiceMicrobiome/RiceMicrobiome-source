@@ -8,10 +8,10 @@ Authors: Joe Edwards
 
 This week the farmer applied some herbicide to try and get rid of some of the weeds in the paddy.  We usually collect on Tuesdays, but because he applied the herbicide on Tuesday we had to wait until Thursday to do the collection.
 
-![The field during the 4th week]({filename}/images/fieldw4.jpg)
+![The field during the 4th week]({filename}/images/ArbuckleField/fieldw4.jpg)
 
 You can see that there are tracks in the field where they've taken the tractor through to spray.  I made the mistake of stepping in one of the tracks.  It's deeper than my boot and my foot got wet.
 
-![The plants during the fourth week]({filename}/images/plantsw4.jpg)
+![The plants during the fourth week]({filename}/images/ArbuckleField/plantsw4.jpg)
 
 The plants are growing fast!

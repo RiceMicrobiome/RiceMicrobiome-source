@@ -7,12 +7,12 @@ Slug: FE-Week11
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw11.jpg)
+![]({filename}/images/ArbuckleField/fieldw11.jpg)
 Lots of weeds out there!
 
 
-![]({filename}/images/plantsw11.jpg)
+![]({filename}/images/ArbuckleField/plantsw11.jpg)
 I ran across a few plants that were heading.  I avoided collecting these as this was definitely not representative of the entire field.
 
 This is one of the few pictures of rain in California this summer
-![]({filename}/images/fieldw11-2.jpg)
+![]({filename}/images/ArbuckleField/fieldw11-2.jpg)

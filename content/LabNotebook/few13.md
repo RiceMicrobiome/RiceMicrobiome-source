@@ -7,11 +7,11 @@ Slug: FE-Week13
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw13.jpg)
+![]({filename}/images/ArbuckleField/fieldw13.jpg)
 
 
-![]({filename}/images/plantsw13.jpg)
+![]({filename}/images/ArbuckleField/plantsw13.jpg)
 
 I took a picture of the buttes when I was leaving.
 
-![]({filename}/images/buttesw13.jpg)
+![]({filename}/images/ArbuckleField/buttesw13.jpg)

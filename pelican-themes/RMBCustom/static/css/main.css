@@ -17,7 +17,7 @@
 /***** Global *****/
 /* Body */
 body {
-    background: #F5F4EF;
+    background-image: url("https://raw.github.com/RiceMicrobiome/RiceMicrobiome-source/master/themes/RMBcustom/static/css/linedpaper.png");
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
     font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -177,7 +177,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	
 	/* Main Nav */
 	#banner nav {
-		background: #F5F4EF;
+		/*background: #F5F4EF;*/
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
@@ -195,7 +195,7 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 	
 	#banner nav a:link, #banner nav a:visited {
-		color: #000000;
+		color: #984EA3;
 		display: inline-block;
 		height: 30px;
 		padding: 5px 1.5em;
@@ -203,8 +203,8 @@ img.left, figure.left {float: left; margin: 0 2em 2em 0;}
 	}
 	#banner nav a:hover, #banner nav a:active,
 	#banner nav .active a:link, #banner nav .active a:visited {
-		background: #fff;
-		color: #984EA3;
+		background: #984EA3;
+		color: #FFF;
 		text-shadow: none !important;
 	}
 	

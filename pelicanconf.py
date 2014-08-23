@@ -44,10 +44,8 @@ THEME = "pelican-themes/RMBCustom"
 
 TAG_FEED_ATOM = "feeds/tag_%s.atom.xml"
 
-EXTRA_PATH_METADATA = {
-    'extras/robots.txt': {'path': 'robots.txt'},
-    'extras/favicon.ico': {'path': 'favicon.ico'},
-}
+FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),
+                 ('extra/favicon.ico', 'favicon.ico'),)
 
 # Publishing Extras
 #GOOGLE_ANALYTICS = 'UA-54046198-1'

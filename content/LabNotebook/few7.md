@@ -7,7 +7,7 @@ Slug: FE-Week7
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw7.jpg)
+![]({filename}/images/ArbuckleField/fieldw7.jpg)
 
 
-![]({filename}/images/plantsw7.jpg)
+![]({filename}/images/ArbuckleField/plantsw7.jpg)

@@ -7,8 +7,8 @@ Slug: FE-Week5
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw5.jpg)
+![]({filename}/images/ArbuckleField/fieldw5.jpg)
 We had a guest collector this week.  Meet Eugene.  He's like this all the time.
 
-![]({filename}/images/plantsw5.jpg)
+![]({filename}/images/ArbuckleField/plantsw5.jpg)
 Check out the plants! They're starting to tiller.

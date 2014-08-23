@@ -7,7 +7,7 @@ Slug: FE-Week6
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw6.jpg)
+![]({filename}/images/ArbuckleField/fieldw6.jpg)
 
 
-![]({filename}/images/plantsw6.jpg)
+![]({filename}/images/ArbuckleField/plantsw6.jpg)

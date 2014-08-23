@@ -7,7 +7,7 @@ Slug: FE-Week12
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw12.jpg)
-![]({filename}/images/fieldw12-2.jpg)
+![]({filename}/images/ArbuckleField/fieldw12.jpg)
+![]({filename}/images/ArbuckleField/fieldw12-2.jpg)
 
-![]({filename}/images/plantsw12.jpg)
+![]({filename}/images/ArbuckleField/plantsw12.jpg)

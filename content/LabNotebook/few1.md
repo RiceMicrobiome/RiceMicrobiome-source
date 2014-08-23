@@ -21,7 +21,7 @@ So what we're left with is giant field.  Thankfully the farmer only wanted us to
 
 When we got there, they were seeding the field by plane.  In case you didn't know, many Californian rice fields are seeded by airplane.  They soak the seeds in water for 24 hours prior to seeding and then spray them out of the back of an airplane.  The soaking of the seeds ensures that they sink to the bottom of the flooded paddy and they don't just float to one corner of the field.
 
-![They seed the fields by crop dusters!]({filename}/images/duster2.jpg)
+![They seed the fields by crop dusters!]({filename}/images/ArbuckleField/duster2.jpg)
 
 Because they had just seeded the field that day and there were no roots to sample we decided to just sample the soil, take it back to the lab, and extract the DNA to get a good idea of the starting microbial pool.
 

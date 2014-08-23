@@ -7,8 +7,8 @@ Slug: FE-Week8
 Authors: Joe Edwards
 
 
-![]({filename}/images/fieldw8.jpg)
+![]({filename}/images/ArbuckleField/fieldw8.jpg)
 
 
-![]({filename}/images/plantsw8.jpg)
+![]({filename}/images/ArbuckleField/plantsw8.jpg)
 It was windy this week so we had to keep the paper towels down with the sample tubes.

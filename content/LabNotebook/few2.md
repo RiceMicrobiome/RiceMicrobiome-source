@@ -8,7 +8,7 @@ Authors: Joe Edwards
 
 Last week we watched the field being seeded and only collected soil for microbiome analysis.  This week the seedlings have germinated.
 
-![The field during the second week]({filename}/images/fieldw2.jpg)
+![The field during the second week]({filename}/images/ArbuckleField/fieldw2.jpg)
 
 You can see where we walked out to sample.  It was hard work.  We bought big rubber boots go go out there, but it's easy to get stuck.  Once you're in the mud, you kind of master a rocking motion to keep your feet moving.  Regardless, Chris lost his boot and got his feet wet.
 
@@ -16,4 +16,4 @@ The seedlings had germinated at this point (you can't see it in this picture). T
 
 We went out into the field and collected the seedlings.  This is what they look like.
 
-![The rice seedlings in the second week]({filename}/images/plantsw2.jpg)
+![The rice seedlings in the second week]({filename}/images/ArbuckleField/plantsw2.jpg)
