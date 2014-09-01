@@ -30,7 +30,6 @@ I trimmed a pannicle off of one of these plants and took the seeds back to the l
 ![]({filename}/images/Inheritance/dehuller.jpg)
 In the Sundar lab we have a very complicated way of stripping the hulls off the seeds.  It involves a cut piece of a rubber bike tire tube and a lot of muscle.  We roll the seeds with husks in the tube until the husks come off.  We just have to be careful not to over do it or else the embryo will pop off.
 
-![]({filename}/images/Inheritance/dehuller.jpg)
 
 This gives me a nice set of dehulled seeds and a set of seeds with the hulls still on them.
 

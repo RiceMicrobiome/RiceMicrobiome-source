@@ -13,3 +13,7 @@ Joe is a PhD candidate in the Sundaresan Lab in the Plant Biology Graduate Group
 
 ## Publications
 
+## Contact
+<a href="https://github.com/bulksoil"><img src="/images/github.png" alt="GitHub" width="30" height="30"></a></p>
+<a href="https://twitter.com/Bulk_Soil"><img src="/images/twitter.png" alt="GitHub" width="30"></a></p>
+

@@ -2,6 +2,7 @@ Title: Home
 Date: 2014-06-30 10:20
 URL:
 save_as: index.html
+status: hidden
 
 # Welcome to the Rice Microbiome Project's website.
 
